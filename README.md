@@ -20,3 +20,5 @@ This Terraform configuration provisions an **AWS EC2 instance** with **Nginx**, 
 ```bash
 terraform init
 terraform apply -auto-approve -var="ami_id=ami-xxxxxxxx"
+
+
